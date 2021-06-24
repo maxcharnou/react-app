@@ -1,0 +1,15 @@
+header {
+  padding: 2vh 0;
+  width: 100vw;
+  height: 10vh;
+  background-color: aqua;
+  color: aqua;
+  background: -webkit-linear-gradient(to right, #eb5757, #000000);
+  background: linear-gradient(to right, #eb5757, #000000);
+  text-align: center;
+  font-size: 1.75em;
+}
+h1{
+  margin: 0 auto;
+  box-sizing: border-box;
+}
